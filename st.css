@@ -213,29 +213,29 @@ input[type="text"]:focus {
 }
 
 .card0{
-  background: url('https://i.pinimg.com/564x/65/e0/e9/65e0e98c845811563d7871b58e53ce81.jpg') center center no-repeat;
+  background: url('https://i.pinimg.com/564x/e2/a1/be/e2a1be9f8f6cd163e9e7488e5bcb53bb.jpg') center center no-repeat;
   background-size: 300px;
 }
 .card0:hover{
-  background: url('https://i.pinimg.com/564x/65/e0/e9/65e0e98c845811563d7871b58e53ce81.jpg') left center no-repeat;
+  background: url('https://i.pinimg.com/564x/e2/a1/be/e2a1be9f8f6cd163e9e7488e5bcb53bb.jpg') left center no-repeat;
   background-size: 400px;
 }
 
 .card1{
-  background: url('https://i.pinimg.com/564x/2f/2d/23/2f2d23f6d1f511a655682fe471c1080c.jpg') center center no-repeat;
+  background: url('https://i.pinimg.com/564x/26/5a/55/265a55c69af140c13634f042fee45b38.jpg') center center no-repeat;
   background-size: 300px;
 }
 .card1:hover{
-  background: url('https://i.pinimg.com/564x/2f/2d/23/2f2d23f6d1f511a655682fe471c1080c.jpg') left center no-repeat;
+  background: url('https://i.pinimg.com/564x/26/5a/55/265a55c69af140c13634f042fee45b38.jpg') left center no-repeat;
   background-size: 400px;
 }
 
 .card2{
-  background: url('https://i.pinimg.com/564x/c2/93/df/c293dfb882ff6aeb9ff58355f24aa583.jpg') center center no-repeat;
+  background: url('https://i.pinimg.com/564x/bc/fe/45/bcfe454a47431618be4475252763258d.jpg') center center no-repeat;
   background-size: 300px;
 }
 .card2:hover{
-  background: url('https://i.pinimg.com/564x/c2/93/df/c293dfb882ff6aeb9ff58355f24aa583.jpg') left center no-repeat;
+  background: url('https://i.pinimg.com/564x/bc/fe/45/bcfe454a47431618be4475252763258d.jpg') left center no-repeat;
   background-size: 400px;
 }
 
