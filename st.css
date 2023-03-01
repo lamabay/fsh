@@ -44,32 +44,34 @@ a {
   }
   
 
-  
-  .dropdown-content {
+  .dropdown-content  {
     display: none;
     position: absolute;
-    min-width: 160px;
-    width: 100%;
-    height: 5%;
-    padding-top: 20px;
+    width: 90%;
+    height: 50px;
+    padding: 14px 16px;
     background-color: white;
     z-index: 1;
     border-bottom:2px solid #800000;
     border-top:2px solid #800000 ;
 }
-  
-  .dropdown-content a {
-    float: none;
+
+  .dropdown-content a  {
     color: black;
-    padding: 50px 16px;
-    text-decoration: none;
+    padding: 40px 50px;
+    padding-top: 0px;
     /*display: block; سطر تحت سطر */
-    text-align: left;
     font-family: inherit;
-    font-size: 16px;  
+    font-size: 16px; 
   }
-  
- 
+
+
+  .dropdown-content li  {
+    list-style-type:none; 
+    display: inline-flex;
+    text-align: left;
+  }
+
   .dropdown-content a:hover, .dropdown-btn:hover {
     font-weight: 700;
   }
@@ -77,8 +79,34 @@ a {
     display: block;
   }
 
+  .submenu{
+    display: none;
+    position: absolute;
+    margin-top: 50px;
+    height:2px;
+    padding: 14px 16px;
+    width: 90%;
+    background-color: white;
+  }
+.submenu li {
+  color: rgb(7, 0, 0);
+  float: none;
+  padding: 4px 10px;
+  background-color: white;
+  padding-top: 5px;
+  display: block; 
+  font-family: inherit;
+  font-size: 16px; 
+}
+  .dropdown-content ul li:hover .submenu{
+    display: block;
+  }
 
 
+
+
+
+  
 .search{
 float: right;
 padding-top: 40px ;
