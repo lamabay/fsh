@@ -52,7 +52,7 @@ a {
     background-color: white;
     z-index: 1;
     border-bottom:2px solid #800000;
-    border-top:2px solid #800000 ;
+    border-top:2px solid #800000 ; 
 }
 
   .dropdown-content a  {
@@ -60,13 +60,14 @@ a {
     padding: 40px 50px;
     padding-top: 0px;
     font-family: inherit;
-    font-size: 16px;
+    font-size: 16px;  
   }
 
   .dropdown-content li  {
     list-style-type:none; 
     display: inline-flex;
-    text-align: left;
+    text-align: left;  
+
   }
 
   .dropdown-content a:hover, .dropdown-btn:hover {
@@ -78,13 +79,14 @@ a {
 
   .submenu{
     display: none;
-    position: fixed;
+    position: absolute;
     margin-top: 50px;
     margin-left: 0;
     width: 100%;
     background-color: white;
     padding-left: 0;
-    left: 0;
+    left: 0; 
+
   }
 
   span{
@@ -342,4 +344,40 @@ h2{
     padding-left: 350px;
     position: absolute;
     font-family: "txt";
+}
+
+.imgsec{
+  width: 700px;
+  height: 700px;
+  margin:5px;
+
+}
+.img1sec{
+  display: flex;
+  justify-content: center;
+  padding-top: 500px;
+
+}
+.img1sec a{
+  display: flex;
+  justify-content: center;
+padding-left: 0;
+}
+
+.img2sec{
+  display: flex;
+  justify-content: center;
+}
+.img2sec a{
+  display: flex;
+  justify-content: center;
+padding-left: 0;
+
+}
+.bottom-right  {  
+  position: absolute;
+  font-family:'Times New Roman', Times, serif;
+  color: rgb(249, 248, 248);
+  font-size: 30px;
+  font-weight: bold;
 }
