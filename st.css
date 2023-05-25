@@ -228,7 +228,6 @@ input[type="text"]:focus {
   transition: border 1s;
   position: relative;
 }
-
 .border:hover{
 	border: 1px solid white;
 }
@@ -293,7 +292,6 @@ input[type="text"]:focus {
 .card2:hover .fa{
   opacity: 1;
 }
-
 h2{
   font-family: 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
   color: white;
@@ -301,13 +299,11 @@ h2{
   opacity: 0;
   transition: opacity 1s;
 }
-
 .fa{
   opacity: 0;
   transition: opacity 1s;
   padding:5px;
 }
-
 .icons{
   position: absolute;
   fill: #fff;
