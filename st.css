@@ -233,8 +233,8 @@ input[type="text"]:focus {
 }
 */
 .card{
-  height: 379px;
-  width: 300px;
+  height: 500px;
+  width: 400px;
   background: grey;
   border-radius: 10px;
   transition: background 0.8s;
@@ -247,29 +247,29 @@ input[type="text"]:focus {
 }
 
 .card0{
-  background: url('https://i.pinimg.com/564x/e2/a1/be/e2a1be9f8f6cd163e9e7488e5bcb53bb.jpg') center center no-repeat;
-  background-size: 300px;
+  background: url('https://i.pinimg.com/564x/61/f6/2c/61f62cd818bb98471a3638b56d60c533.jpg') center center no-repeat;
+  background-size: 450px;
 }
 .card0:hover{
-  background: url('https://i.pinimg.com/564x/e2/a1/be/e2a1be9f8f6cd163e9e7488e5bcb53bb.jpg') left center no-repeat;
+  background: url('https://i.pinimg.com/564x/7f/86/b7/7f86b7b6ef54c0d75ed6031435ee0579.jpg') left center no-repeat;
   background-size: 400px;
 }
 
 .card1{
-  background: url('https://i.pinimg.com/564x/26/5a/55/265a55c69af140c13634f042fee45b38.jpg') center center no-repeat;
-  background-size: 300px;
+  background: url('https://i.pinimg.com/564x/80/d1/13/80d113706bc7ad2b1e59884ff2857221.jpg') center center no-repeat;
+  background-size: 450px;
 }
 .card1:hover{
-  background: url('https://i.pinimg.com/564x/26/5a/55/265a55c69af140c13634f042fee45b38.jpg') left center no-repeat;
+  background: url('https://i.pinimg.com/564x/a9/12/53/a912537f49b5416775f95140a91ade7a.jpg') left center no-repeat;
   background-size: 400px;
 }
 
 .card2{
-  background: url('https://i.pinimg.com/564x/bc/fe/45/bcfe454a47431618be4475252763258d.jpg') center center no-repeat;
-  background-size: 300px;
+  background: url('https://i.pinimg.com/564x/ca/0e/60/ca0e60e4694c55b97e362daab19bb425.jpg') center center no-repeat;
+  background-size: 450px;
 }
 .card2:hover{
-  background: url('https://i.pinimg.com/564x/bc/fe/45/bcfe454a47431618be4475252763258d.jpg') left center no-repeat;
+  background: url('https://i.pinimg.com/564x/f2/93/2a/f2932abc74c90b49db2cf0e45611d12c.jpg') left center no-repeat;
   background-size: 400px;
 }
 
@@ -317,13 +317,15 @@ h2{
 }
 */
 
-.img1{
+/* .img1{
     height: 400px;
     width:300px;
     float: right;
     position: absolute;
     padding-left: 1200px;
+
 }
+
 
 .img2{
     height: 400px;
@@ -340,18 +342,19 @@ h2{
     padding-left: 350px;
     position: absolute;
     font-family: "txt";
-}
+} */
 
 .imgsec{
   width: 700px;
   height: 700px;
   margin:5px;
+  background-size: 450px;
 
 }
 .img1sec{
   display: flex;
   justify-content: center;
-  padding-top: 500px;
+  padding-top:5px;
 
 }
 .img1sec a{
