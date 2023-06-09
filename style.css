@@ -16,7 +16,6 @@
 	padding-left: 0%;
 	left: 100px;
 	color: white;
-
   }
 .container{
     scroll-snap-type: y mandatory ;
@@ -41,11 +40,9 @@ a{
 	padding-left: 900px;
 }
 .one1{
-
     background: white no-repeat center center fixed;
     background-size: cover;
     background-image: url("https://static.zara.net/photos///contents/mkt/spots/ss23-north-woman-dresses/subhome-xmedia-21//w/1920/IMAGE-landscape-fill-c13ec282-0b94-46f1-8041-8a1b050be93c-default_0.jpg?ts=1684741644021");
-
 }
 .tow1{
 	background: white no-repeat center center fixed;
@@ -63,11 +60,9 @@ a{
     background-image: url("https://static.zara.net/photos///2023/V/1/1/p/1229/110/017/2/w/1922/1229110017_9_1_1.jpg?ts=1677672319281");
 }
 .one2{
-
     background: white no-repeat center center fixed;
     background-size: cover;
     background-image: url("https://static.zara.net/photos///contents/mkt/spots/ss23-north-man-new/subhome-xmedia-19-2//w/1920/IMAGE-landscape-fill-7c8c1a5b-ce41-46df-94ea-8f45d2bd772f-default_0.jpg?ts=1683800443276");
-
 }
 .tow2{
 	background: white no-repeat center center fixed;
@@ -82,11 +77,9 @@ a{
 
 
 .one3{
-
     background: white no-repeat center center fixed;
     background-size: cover;
     background-image: url("https://static.zara.net/photos///contents/mkt/spots/ss23-north-kids-babygirl/subhome-xmedia-20//w/1920/IMAGE-landscape-default-fill-9fc10e4f-b20c-4d20-b203-2ad74d4f5396-default_0.jpg?ts=1684421586763");
-
 }
 .tow3{
 	background: white no-repeat center center fixed;
@@ -107,12 +100,9 @@ a{
 
 .container1{
 		margin: 0 auto;
-		/* position: relative; */
 		width: 100%;
 		height: 100%;
 		padding-bottom:0%;
-	  /* user-select: none; */
-
 	}
 
 	.container1 .slide_img{
@@ -120,10 +110,7 @@ a{
 		width: 100%;
 		height: 100%;
 	}
-	/* .container1 .slide_img img{
-		width: inherit;
-		height: inherit;
-	} */
+
 
 	 .prev, .next{
 		width: 6%;
