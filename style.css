@@ -9,7 +9,7 @@
     box-sizing: border-box;
     font-family: "Poppins",sans-serif;
 }
-.fsh {	
+a.fsh {	
 	position: absolute;
 	font-size: 100px;
 	font-family: "ama";
@@ -31,14 +31,13 @@ section{
     scroll-snap-align: start;
 }
 
-a{
+a{	
 	font-size: 20px;
 	text-decoration: none;
     color: white;
     text-shadow:1px 1px 4px #000;
-	top: 377%; 
-	left: 900px;
-	padding-left: 900px;
+	/* top: 377%;  */
+	 /* padding-left: 600px;  */
 }
 .one1{
     background: white no-repeat center center fixed;
